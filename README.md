@@ -1,5 +1,5 @@
 # bulksmash
-A bulk SMS sender written in Python that sends a message to large number of receptionist using an Android phone connected to the computer.
+A bulk SMS sender written in Python that sends a message to large number of recipients using an Android phone connected to the computer.
 
 ## Prerequisite
 1. Android Phone
