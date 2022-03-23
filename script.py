@@ -77,7 +77,6 @@ def main():
     for number in numbers:
         send_message(message, number)
         time.sleep(MESSAGE_INTERVAL)
-        pass
     print("Sent messages to {} recepients.".format(len(numbers)))
 
 
